@@ -23,10 +23,14 @@ In this project I used VBA scripting to analyze stock market data pulled from th
 
 * For an added visual effect, conditional formatting was included to highlight positive changes between opening and closing prices in green and negative changes between opening and closing prices in red.
 
+* Resulting output is displayed as follows:
+
 
 ## Percentage Fluctuation and Greatest Total Volume
 
 * The financial analysis output also returns the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
+
+* Resulting output is displayed as follows:
 
 - - -
 
