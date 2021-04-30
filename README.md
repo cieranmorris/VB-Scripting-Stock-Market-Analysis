@@ -7,23 +7,21 @@ In this project I used VBA scripting to analyze stock market data pulled from th
 
 * [Test Data](Resources/alphabetical_testing.xlsx) - Used this dataset while initially developing my scripts given its smaller size.
 
-* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final financial analysis report.
+* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Used this dataset to generate the final financial analysis report.
 
-## Instructions
+## Baseline Financial Analysis
 
-* Create a script that will loop through all the stocks for one year and output the following information.
+* Using VBA scripting within Microsoft Excel, I was able to create a script that loops through all the stocks for one year and output points of interest for each stock including:
 
-  * The ticker symbol.
+  * The ticker symbol
 
-  * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+  * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year
 
-  * The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
+  * The percent change from opening price at the beginning of a given year to the closing price at the end of that year
 
-  * The total stock volume of the stock.
+  * The total stock volume
 
-* You should also have conditional formatting that will highlight positive change in green and negative change in red.
-
-* The result should look as follows.
+* For an added visual effect, conditional formatting was included to highlight positive changes between opening and closing prices in green and negative changes between opening and closing prices in red.
 
 
 ## BONUS
